@@ -12,6 +12,9 @@ namespace Encapsulation
         public decimal CurrentSum;
         private string _secretCode = "123*";
 
+
+        // zsdsd
+
         // Properties
 
         #region Very New Way
